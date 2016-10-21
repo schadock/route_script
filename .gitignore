@@ -1,0 +1,7 @@
+.idea/
+.vagrant/
+*.pyc
+venv3/
+envname/
+*.pid
+*.log
